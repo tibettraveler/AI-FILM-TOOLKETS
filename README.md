@@ -1,4 +1,4 @@
-CharacterDS
+CharacterDS 是一份skill。可以安裝在chatGPT
 
 讓角色不只被「畫出來」，而是被完整建立、辨識、展示與延伸。
 
